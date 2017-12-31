@@ -1,0 +1,29 @@
+.wrapper {
+  width: 520px;
+  margin: auto;
+}
+
+.information {
+  border: solid 1px grey;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.txtHoten, .txtEmail, .txtPhone {
+  width: 135px;
+}
+
+.listUser {
+  text-align: center;
+}
+
+.hocvien {
+  border-bottom: solid 1px #eaeff7;
+  padding: 10px;
+}
+
+.hang1 span {
+  color: blue;
+  font-weight: bold;
+}
