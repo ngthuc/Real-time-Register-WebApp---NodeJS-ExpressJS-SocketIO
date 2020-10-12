@@ -1,17 +1,22 @@
 {
-  "name": "minigame",
+  "name": "realtime-register-app-nodejs-socketio",
   "version": "1.0.0",
-  "description": "",
+  "description": "Realtime Register Webapp with Nodejs, Express and Socket.io",
+  "author": {
+    "name": "Nguyen Thuc",
+    "email": "contact@ngthuc.com",
+    "homepage": "https://ngthuc.com/"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "NgThuc",
-  "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.5",
     "express": "^4.15.2",
     "socket.io": "^2.3.0"
-  }
+  },
+  "homepage": "https://github.com/ngthuc/realtime-register-app-nodejs-socketio",
+  "license": "MIT"
 }
